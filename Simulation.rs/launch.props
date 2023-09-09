@@ -1,0 +1,6 @@
+#
+#Sat Aug 19 16:16:28 CEST 2023
+incoming=tcp\://127.0.0.1\:5555
+outgoing=tcp\://127.0.0.1\:5556
+scenario=..\\Simulation.rs
+working.directory=../
